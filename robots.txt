@@ -1,0 +1,9 @@
+# Privacy-minimized crawler policy for Golden Courtyard
+# Included for future root/custom-domain hosting.
+User-agent: *
+Allow: /
+
+User-agent: Googlebot-Image
+Disallow: /images/
+
+Sitemap: https://goldencourtyardcontractor.github.io/goldencourtyardlandscaping-roofing/sitemap.xml
