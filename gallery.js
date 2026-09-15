@@ -137,7 +137,17 @@ const landscapingMedia = [
   { type: "image", file: "landscaping-108.jpg" },
   { type: "image", file: "landscaping-109.jpg" },
   { type: "video", file: "landscaping-video-21.mp4" },
-  { type: "image", file: "landscaping-110.jpg" }
+  { type: "image", file: "landscaping-110.jpg" },
+  { type: "image", file: "landscaping-111.jpg" },
+  { type: "image", file: "landscaping-112.jpg" },
+  { type: "image", file: "landscaping-113.jpg" },
+  { type: "image", file: "landscaping-114.jpg" },
+  { type: "image", file: "landscaping-115.jpg" },
+  { type: "image", file: "landscaping-116.jpg" },
+  { type: "image", file: "landscaping-117.jpg" },
+  { type: "image", file: "landscaping-118.jpg" },
+  { type: "image", file: "landscaping-119.jpg" },
+  { type: "image", file: "landscaping-120.jpg" }
 ];
 
 const roofingMedia = [
